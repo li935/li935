@@ -1,3 +1,5 @@
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93">
+
 <div>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fli935"
@@ -30,5 +32,3 @@ I'm a developer interested in web application development.
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93">

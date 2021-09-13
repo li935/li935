@@ -18,15 +18,12 @@
 
 I'm a developer interested in web application development.
 
+
 ## Stack
 
 - Spring Frame Work
 - Spring Boot
 - JavaScript
 - React
-
-
-
-<br><br>
 
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93">

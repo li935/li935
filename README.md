@@ -1,4 +1,4 @@
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93">
+
 
 <div>
     <img 
@@ -7,6 +7,8 @@
     <img 
         src="https://img.shields.io/github/followers/li935?style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    
+    <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93">
 </div>
 
 

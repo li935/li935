@@ -9,16 +9,16 @@
 
 
 
-## AlpoxDev : Service Programmer
+## DevDev : Backend Programmer
 
-어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다. 
+반응형 웹 어플리케이션 제작에 관심이 많은 프로그래머입니다. 
 
 ## Stack
 
-- React.js
-- Node.js
-- React-Native
-- Android-Studio
+- Spring Frame Work
+- Spring Boot
+- JavaScript
+- React
 
 <a href="https://instagram.com/alpox.dev">
     <img 

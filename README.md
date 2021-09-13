@@ -20,9 +20,6 @@ I'm a developer interested in web application development.
 - JavaScript
 - React
 
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
-
 <a href="https://www.notion.so/jamesdonghyunkim/_DonghyunKim-bcc26f23239540a9b495996b55467e9f">
     <img 
         src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/jamesdonghyunkim/_DonghyunKim-bcc26f23239540a9b495996b55467e9f"
@@ -34,3 +31,4 @@ I'm a developer interested in web application development.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93">

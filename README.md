@@ -26,4 +26,11 @@ I'm a developer interested in web application development.
 - JavaScript
 - React
 
+
+## Carrer
+
+- Dongguk University, Multimedia Engineering
+- Vizinf, Development Team Intern
+- TmaxSoft, Researcher
+
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93">

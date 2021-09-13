@@ -20,9 +20,9 @@
 - JavaScript
 - React
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://www.notion.so/jamesdonghyunkim/_DonghyunKim-bcc26f23239540a9b495996b55467e9f">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/jamesdonghyunkim/_DonghyunKim-bcc26f23239540a9b495996b55467e9f"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://alpox.kr">

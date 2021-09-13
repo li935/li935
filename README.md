@@ -9,9 +9,9 @@
 
 
 
-## DevDev : Backend Programmer
+## Backend Programmer
 
-반응형 웹 어플리케이션 제작에 관심이 많은 프로그래머입니다. 
+I'm a developer interested in web application development.
 
 ## Stack
 

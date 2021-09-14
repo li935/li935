@@ -26,7 +26,7 @@ I'm a developer interested in web application development.
 - JavaScript
 - React
 - Oracle, Tibero
-- Jenkins, Docker, AWS, ...
+- AWS, Jenkins, Docker, Kubernetes, ...
 
 
 ## Carrer

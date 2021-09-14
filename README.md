@@ -25,6 +25,8 @@ I'm a developer interested in web application development.
 - Spring Boot
 - JavaScript
 - React
+- Oracle, Tibero
+- Jenkins, Docker, AWS, ...
 
 
 ## Carrer

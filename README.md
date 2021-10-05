@@ -19,12 +19,14 @@
 I'm a developer interested in web application development.
 
 
+
 ## Stack
 
 - Spring Frame Work, Spring Boot
 - JavaScript, React
 - Oracle, Tibero
 - AWS, Jenkins, Docker, Kubernetes, Kafka, ...
+
 
 
 ## Carrer

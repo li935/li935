@@ -18,7 +18,7 @@
 
 I'm a developer interested in web application development.
 
-
+<br>
 
 ## Stack
 
@@ -27,7 +27,7 @@ I'm a developer interested in web application development.
 - Oracle, Tibero
 - AWS, Jenkins, Docker, Kubernetes, Kafka, ...
 
-
+<br>
 
 ## Carrer
 

@@ -25,7 +25,7 @@ I'm a developer interested in web application development.
 - Spring Frame Work, Spring Boot
 - JavaScript, React
 - Oracle, Tibero
-- AWS, Jenkins, Docker, Kubernetes, Kafka, ...
+- AWS, Jenkins, Docker, Kafka, ...
 
 <br>
 

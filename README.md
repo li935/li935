@@ -20,29 +20,29 @@ I'm a developer interested in web application development.
 
 <br>
 
+## Carrer
+
+- Dongguk University, Multimedia Engineering
+- Vizinf, Development Team Intern
+- TmaxSoft, Researcher
+
+<br>
+
 ## Skill
 
 - Java, NodeJS(TypeScript)
 - Spring MVC, Spring Boot, Spring Data JPA/Redis
 - MyBatis, JPA, Hibernate
 - Gradle, Maven
-
+<br>
 - Oracle, Tibero, MySQL
 - Jenkins
 - RDS, S3, EC2
 - Nginx, Tomcat
-
+<br>
 - ES6, React.js
 - Npm, Webpack
 - MobX
-
-<br>
-
-## Carrer
-
-- Dongguk University, Multimedia Engineering
-- Vizinf, Development Team Intern
-- TmaxSoft, Researcher
 
 <br>
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93" href="www.naver.com">

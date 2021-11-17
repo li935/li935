@@ -20,25 +20,17 @@ I'm a developer interested in web application development.
 
 <br>
 
-## Backend
+## Skill
 
 - Java, NodeJS(TypeScript)
 - Spring MVC, Spring Boot, Spring Data JPA/Redis
 - MyBatis, JPA, Hibernate
 - Gradle, Maven
 
-<br>
-
-## DevOps
-
 - Oracle, Tibero, MySQL
 - Jenkins
 - RDS, S3, EC2
 - Nginx, Tomcat
-
-<br>
-
-## Frontend
 
 - ES6, React.js
 - Npm, Webpack

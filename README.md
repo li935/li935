@@ -22,9 +22,9 @@ I'm a developer interested in web application development.
 
 ## Carrer
 
-- Dongguk University, Multimedia Engineering
-- Vizinf, Development Team Intern
 - TmaxSoft, Researcher
+- Vizinf, Development Team Intern
+- Dongguk University, Multimedia Engineering
 
 <br>
 

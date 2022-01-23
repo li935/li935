@@ -30,17 +30,17 @@ I'm a developer interested in web application development.
 
 ## Skill
 
-- Java, NodeJS(TypeScript)
+- Java
 - Spring MVC, Spring Boot, Spring Data JPA/Redis
 - MyBatis, JPA, Hibernate
-- Gradle, Maven
 - Oracle, Tibero, MySQL
 - Jenkins
 - RDS, S3, EC2
 - Nginx, Tomcat
-- ES6, React.js
+- ES6 JavaScript, React.js
 - Npm, Webpack
 - MobX
+- d3.js, ApexChart.js
 
 <br>
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93" href="www.naver.com">

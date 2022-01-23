@@ -33,13 +33,8 @@ I'm a developer interested in web application development.
 - Npm, Webpack
 - MobX
 - d3.js, ApexChart.js
-- Java
-- Spring MVC, Spring Boot, Spring Data JPA/Redis
-- MyBatis, JPA, Hibernate
-- Oracle, Tibero, MySQL
-- Jenkins
+- Oracle, Tibero
 - RDS, S3, EC2
-- Nginx, Tomcat
 
 <br>
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93" href="www.naver.com">

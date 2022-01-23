@@ -22,7 +22,7 @@ I'm a developer interested in web application development.
 
 ## Carrer
 
-- TmaxSoft, Researcher
+- TmaxSoft, Researcher (Now)
 - Vizinf, Development Team Intern
 
 <br>

@@ -22,8 +22,8 @@ I'm a developer interested in web application development.
 
 ## Carrer
 
-- TmaxSoft / Database Research Team, Researcher(Front-end Developer)
-- Vizinf / VR Development Team, Intern
+- TmaxSoft - Database Research Team, Researcher(Front-end Developer)
+- Vizinf - VR Development Team, Intern
 
 <br>
 

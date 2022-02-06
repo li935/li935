@@ -11,6 +11,11 @@
             style="height : auto; margin-left : 10px; margin-right : 10px;"
         />
     </a>
+    <a href="https://www.acmicpc.net/user/kim_dh93">
+        <img 
+             src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kim_dh93"
+        />
+    </a>
 </div>
 
 ## Who i am?
@@ -34,6 +39,3 @@
 - d3.js, ApexChart.js
 - Oracle, Tibero
 - RDS, S3, EC2
-
-<br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93" href="www.naver.com">

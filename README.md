@@ -36,4 +36,4 @@
 - RDS, S3, EC2
 
 <br>
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93" href="www.naver.com">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_dh93" href="www.naver.com">

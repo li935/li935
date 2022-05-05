@@ -18,16 +18,14 @@
 
 ## Carrer
 
-- TmaxSoft - Database Research Team, Researcher(Front-end Developer)
-- Vizinf - VR Development Team, Intern
+- TmaxSoft - Database Research Team, Researcher(Frontend Web Developer)
+- Vizinf - VR Development Team, Intern(Frontend Web Developer)
 
 <br>
 
 ## Skill
 
 - ES6 JavaScript, React.js
-- Npm, Webpack
 - MobX
-- d3.js, ApexChart.js
+- ApexChart.js
 - Oracle, Tibero
-- RDS, S3, EC2

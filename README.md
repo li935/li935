@@ -18,8 +18,8 @@
 
 ## Carrer
 
-- TmaxSoft - Database Research Team, Researcher(Frontend Web Developer)
-- Vizinf - VR Development Team, Intern(Frontend Web Developer)
+- TmaxSoft - Database Research Team, Researcher (Frontend Web Developer)
+- Vizinf - VR Development Team, Intern (Frontend Web Developer)
 
 <br>
 

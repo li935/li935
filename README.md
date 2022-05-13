@@ -27,5 +27,5 @@
 
 - ES6 JavaScript, React.js
 - MobX
-- ApexChart.js
+- Styled-Component, Material-UI, ApexChart.js, react-grid-layout.js
 - Oracle, Tibero

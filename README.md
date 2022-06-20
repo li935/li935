@@ -20,7 +20,7 @@
 
 - eBay Japan - Software Engineer
 - TmaxTibero - Frontend Web Developer (Database Research Team, Researcher)
-- Vizinf - Frontend Web Developer (VR Contents Team, Intern)
+- VIZinf - Frontend Web Developer (VR Contents Team, Intern)
 
 <br>
 

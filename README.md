@@ -18,7 +18,7 @@
 
 ## Carrer
 
-- Ebay Japan - Software Engineer
+- eBay Japan - Software Engineer
 - TmaxTibero - Frontend Web Developer (Database Research Team, Researcher)
 - Vizinf - Frontend Web Developer (VR Development Team, Intern)
 

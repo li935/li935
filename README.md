@@ -12,7 +12,8 @@
 
 ## Who i am?
  
-- I'm a developer interested in web application development.
+- I am always serious about building user-friendly systems.
+- A person longing for any dream for a long time resembles that dream at last.
 
 <br>
 

@@ -26,7 +26,7 @@
 
 ## Skill
 
-- ES6 JavaScript, React.js
+- JavaScript, React.js
 - MobX
 - Styled-Component, Material-UI, ApexChart.js, react-grid-layout.js
 - Oracle, Tibero

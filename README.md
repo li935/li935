@@ -14,16 +14,6 @@
  
 - I am always serious about building user-friendly systems.
 
-<br>
-
-## Carrer
-
-- eBay Japan - Software Engineer (Front Dev Team)
-- TmaxTibero - Frontend Web Developer (Database Research Team)
-- VIZinf - Frontend Web Developer (VR Contents Team)
-
-<br>
-
 ## Skill
 
 - JavaScript, React.js

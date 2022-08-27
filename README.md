@@ -12,11 +12,13 @@
 
 ## Who i am?
  
+- Software Engineer, Front-end Web Developer
 - I am always serious about building user-friendly systems.
+- I try to become an expert in the commerce domain.
 
 ## Skill
 
-- JavaScript, React.js
+- JavaScript, React.js, jQuery
 - MobX
 - Styled-Component, Material-UI, ApexChart.js, react-grid-layout.js
-- Oracle, Tibero
+- Oracle, SQL Server, Tibero

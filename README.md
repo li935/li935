@@ -9,6 +9,9 @@
         <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/">
     </a>
 </div>
+<br>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/li935)](https://leetcode.com/li935)
 
 ## Who i am?
  

@@ -20,5 +20,5 @@
 
 - JavaScript, React.js, jQuery
 - MobX
-- Styled-Component, Material-UI, ApexChart.js, react-grid-layout.js, reacdt-i18next
+- Styled-Component, Material-UI, ApexChart.js, react-grid-layout.js, react-i18next
 - Oracle, SQL Server, Tibero
